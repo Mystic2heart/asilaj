@@ -1,13 +1,19 @@
 
-body {
-    background-image:url("https://s-media-cache-ak0.pinimg.com/originals/ac/73/4e/ac734e765c2067227d5edcceb832157f.jpg");
+body {background-image:url("https://s-media-cache-ak0.pinimg.com/originals/ac/73/4e/ac734e765c2067227d5edcceb832157f.jpg");
     color:#800000 ;
-    background-size:cover
-}  
-h1{
-    font-size:120px;
-   
-}
-footer {
-    position: absolute; bottom: 0; border:1px solid gray;
-}
+    background-size:cover}  
+h1{font-size:120px;}
+footer {position: absolute; bottom: 0; border:1px solid gray;}
+.buttons {color:#ccccff;
+          cursor:pointer;
+          display: block;
+          margin: 0 auto 2em;
+          max-width: 160px;
+          text-decoration: none;
+          text-transform: uppercase;
+          vertical-align: middle;
+          width: 100%;
+    
+    background: #E1332D;
+    transition: all 150ms linear;}
+    .buttons:hover{background:#ffffff;}
