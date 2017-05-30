@@ -3,7 +3,7 @@ body {background-image:url("https://s-media-cache-ak0.pinimg.com/originals/ac/73
     color:#800000 ;
     background-size:cover}  
 h1{font-size:120px;}
-footer {position: absolute; bottom: 0; border:1px solid gray;}
+footer {border:1px solid gray;}
 .buttons {color:#ccccff;
           cursor:pointer;
           display: block;
@@ -15,6 +15,6 @@ footer {position: absolute; bottom: 0; border:1px solid gray;}
           width: 100%;
           font-size: 36pt;
     
-    background: #E1332D;
+    background: black;
     transition: all 150ms linear;}
     .buttons:hover{background:#ffffff;}
