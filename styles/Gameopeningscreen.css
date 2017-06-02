@@ -1,2 +1,17 @@
 body {background-image:url("http://vignette1.wikia.nocookie.net/creepypasta/images/5/53/Photo_on_08-04-13_at_7.05_AM.png/revision/latest?cb=20131102200114");
-background-size: cover;
+    background-size: cover;}
+ .Gameopening {color:#ccccff;
+          cursor:pointer;
+          display: block;
+          margin: 0 auto 2em;
+          max-width: 160px;
+          text-decoration: oblique;
+          text-transform: uppercase;
+          vertical-align: middle;
+          width: 100%;
+          background: red;
+          font-size: 36pt;}
+          background: black;
+          background: cover;
+          transition: all 150ms linear;}
+  .Gameopening hover {background:#ffffff;}  
